@@ -6,9 +6,9 @@ The project demonstrates key data analytics skills, including working with real-
 
 Through this project, we aim to provide a complete, end-to-end view of the data analysis process—from raw data to impactful insights.
 
-##🌿 Branch Naming Convention
-feature/data-cleaning
-feature/feature-engineering
-feature/sql-analysis
-feature/visualization
-feature/documentation
+## 🌿 Branch Naming Convention 
+> feature/data-cleaning <br>
+> feature/feature-engineering <br>
+> feature/sql-analysis <br>
+> feature/visualization <br>
+> feature/documentation <br>
