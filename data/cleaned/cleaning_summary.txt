@@ -4,8 +4,8 @@ DATA CLEANING SUMMARY
 - Loaded raw dataset with 9994 rows and 21 columns.
 - Standardized all column names to lowercase with underscores.
 - Converted 'order_date' and 'ship_date' to datetime format.
-- Checked for missing values â€” none found.
-- Checked for duplicate rows â€” none found.
+- Checked for missing values — none found.
+- Checked for duplicate rows — none found.
 - Validated key columns (sales, discount, categories).
 - Final cleaned dataset has 9994 rows (unchanged).
 - Saved as: data/cleaned_data.csv
